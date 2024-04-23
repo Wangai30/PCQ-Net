@@ -3,5 +3,6 @@
 #Soon we will update the code to make it complete.
 # Pre-training model WavLM please open the link to download! https://huggingface.co/
 
-##
+##Figure 1 illustrates the overall architecture of our proposed PCQ approach.
+![image](https://github.com/Wangai30/PCQ-Net/blob/main/fig1.png)   
 
